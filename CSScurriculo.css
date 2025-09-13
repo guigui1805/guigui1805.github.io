@@ -1,0 +1,82 @@
+p
+{
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.cabecalho
+{
+    background-color: rgb(64, 8, 116); 
+    text-align: left;
+    margin: 10px;
+    padding: 10px;
+    display: flex;  /*transforma o cabecalho em um container flexivel*/
+    align-items: center;
+
+}
+.rodape
+{
+    background-color: rgb(64, 8, 116); 
+    text-align: left;
+    margin: 10px;
+    padding: 10px;
+    align-items: center;
+    gap: 5px;
+    
+
+}
+.contato-item
+{
+    text-align: left;
+    padding: 10px;
+    display: flex;  /*transforma o cabecalho em um container flexivel*/
+    align-items: center;
+    gap: 5px;
+}
+h1,h2,h3,h4,h5,h6
+{
+    color: chartreuse;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.color 
+{
+
+}
+.foto
+{
+    border-radius: 15px;
+    width: 100px;
+}
+.caixaPrincipal
+{
+    background-color: blueviolet;
+    text-align: left;
+    padding: 10px;
+    margin: 10px;
+    display: flexbox;  /*transforma o cabecalho em um container flexivel*/
+    align-items: center;
+    gap: 5px;
+
+
+}
+ul,ol
+{
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a
+{
+    color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.caixasCentrais
+{
+    background-color: rgb(64, 8, 116); 
+    text-align: left;
+    padding: 10px;
+    margin: 10px;
+    display: flexbox;  /*transforma o cabecalho em um container flexivel*/
+    align-items: center;
+
+}
